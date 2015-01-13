@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www":{"create":true,"group":"www-data","owner":"www-data","guestpath":"/var/www","hostpath":"/Users/tyndallm/Documents/projects/devserver","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/tyndallm/Documents/projects/devserver","disabled":false}}}
